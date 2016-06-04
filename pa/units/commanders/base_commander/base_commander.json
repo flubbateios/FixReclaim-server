@@ -4,7 +4,7 @@
 	"si_name": "commander",
 	"strategic_icon_priority": 0,
 	"max_health": 12500,
-	"build_metal_cost": 9000,
+	"build_metal_cost": 10000,
 	"buildable_types": "CmdBuild",
 	"show_in_orbital_layer": true,
 	"armor_type": "AT_Commander",
@@ -31,7 +31,7 @@
 		"type": "amphibious",
 		"acceleration": 60,
 		"brake": -1,
-		"move_speed": 11,
+		"move_speed": 10,
 		"turn_speed": 90,
 		"turn_in_place": false,
 		"park_stamp": {
