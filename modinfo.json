@@ -4,10 +4,10 @@
 	"display_name":"Com Reclaim Fix",
 	"description":"Makes the com faster and worth less",
 	"author":"flubb",
-	"version":"1.0",
+	"version":"1.0.1",
 	"build":"94684",
 	"date":"4/6/2015",
-	"forum":"http://matias.ma/nsfw",
+	"forum":"https://github.com/flubbateios/FixReclaim-server/",
 	"signature":" ",
 	"category":
 	[
