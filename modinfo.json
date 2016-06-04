@@ -4,9 +4,9 @@
 	"display_name":"Com Reclaim Fix",
 	"description":"Makes the com faster and worth less",
 	"author":"flubb",
-	"version":"1.2.0",
+	"version":"1.2.1",
 	"build":"94684",
-	"date":"4/6/2015",
+	"date":"2016-06-04",
 	"forum":"https://github.com/flubbateios/FixReclaim-server/",
 	"signature":" ",
 	"category":
@@ -15,6 +15,6 @@
 	"titans",
 	"commander"
 	],
-	"icon":"http://s33.postimg.org/p26lwv65n/BETTERSNIPER.jpg"
+	"icon":"http://s33.postimg.org/vddm75er3/com_reclaim_fix.png"
 	
 }
