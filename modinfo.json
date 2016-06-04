@@ -1,0 +1,20 @@
+{
+	"context":"server",
+	"identifier":"FixReclaim-server",
+	"display_name":"Com Reclaim Fix",
+	"description":"Makes the com faster and worth less",
+	"author":"flubb",
+	"version":"1.0",
+	"build":"94684",
+	"date":"4/6/2015",
+	"forum":"http://matias.ma/nsfw",
+	"signature":" ",
+	"category":
+	[
+	"units",
+	"titans",
+	"commander"
+	],
+	"icon":"http://s33.postimg.org/p26lwv65n/BETTERSNIPER.jpg"
+	
+}
