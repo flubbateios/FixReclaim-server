@@ -29,7 +29,7 @@
       "cue": "/SE/Selection/commander"
     }
   },
-  "build_metal_cost": 10000,
+  "build_metal_cost": 12500,
   "buildable_types": "(CmdBuild) - Custom1 - Custom2 - Custom3 - Custom4",
   "command_caps": [
     "ORDER_Move",
@@ -72,7 +72,7 @@
   "navigation": {
     "acceleration": 60,
     "brake": -1,
-    "move_speed": 10,
+    "move_speed": 9,
     "park_stamp": {
       "cost": 20,
       "shape": "sphere",
